@@ -3,8 +3,11 @@ MorseLEDExfil is a Python-based project that allows you to transmit messages in 
 
 Features
 LED Blinking: Transmit Morse code using the Caps Lock LED.
+
 Cross-Platform Support: Works on Windows and falls back to terminal blinking on other platforms.
+
 Aesthetic Terminal Display: Displays Morse code in a terminal with custom color schemes.
+
 Customizable: Easy to modify and experiment with hardware control or terminal-based Morse code representation.
 
 Installation Prerequisites
@@ -41,8 +44,10 @@ Run the Python script:
 bash
 Copy code
 python morse_blink.py
+
 Usage
-After running the project, it will blink the Caps Lock LED in Morse code to represent the text message "ROHAN CHOUDHARI" by default. The terminal will also display the Morse code sequence in a hacker-style green-on-black color scheme.
+
+After running the project, it will blink the Caps Lock LED in Morse code to represent the text message "ROHAN CHOUDHARI" by default. 
 
 You can modify the message being transmitted by changing the content inside the script. It can be used to demonstrate how Air Gapped Systems can also send covert messeges using simple techniques like "Morse Code"
 
